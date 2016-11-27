@@ -1,0 +1,30 @@
+.container {
+	background: #EAEAEA;
+}
+.title-thing {
+	background-image: url("http://www.meh.ro/wp-content/uploads/2015/11/meh.ro12091.jpg");
+	opacity: 0.97;
+	padding-top: 18px;
+	padding-bottom: 65px;
+}
+
+.name-thing {
+	color: #ffffff;
+	font-size: 48px
+}
+
+
+.btn {
+	background: #EE7AE9;
+	color: white;
+}
+
+.cv-link{
+	font-size: 32px;
+	font-weight: bold;
+	color: black;
+}
+.desc-box {
+	background: gray;
+	text-align: left;
+}
